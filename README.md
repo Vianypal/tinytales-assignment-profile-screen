@@ -9,9 +9,10 @@ Description
 This project is a part of the TinyTales assignment, where the goal is to create a profile screen using React JS. The assignment focuses on building a user interface for a profile page, and Material-UI is utilized for incorporating icons seamlessly. The user data is fetched from a JSON file called record.json.
 
 GitHub Repository
-GitHub Repository: tinytales-assignment-profile-screen
+GitHub Repository: [tinytales-assignment-profile-screen](https://github.com/Vianypal/tinytales-assignment-profile-screen.git)
+
 Live Demo
-Netlify Deployment: TinyTales Profile Screen
+Netlify Deployment: [TinyTales Profile Screen](https://legendary-meringue-0aa254.netlify.app)
 Technologies Used
 React JS: The project is developed using React, a popular JavaScript library for building user interfaces.
 
