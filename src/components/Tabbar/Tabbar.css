@@ -1,0 +1,33 @@
+.tab1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    width: 100%;
+    overflow: hidden;
+}
+.left @media () {
+    
+}
+.left{
+    display: flex;
+    align-items: flex-start;
+    
+    
+  
+}
+.left p{
+    margin-left: -25px;
+}
+.left  img{
+    width: 100px;
+}
+.right button{
+    background-color: yellow;
+   
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 10px;
+    margin-right: 10px;
+}
