@@ -38,8 +38,8 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Vianypal/tinytales-assignment-profile-screen.git
-Navigate to the project directory:
 ```
+Navigate to the project directory:
 ```bash
 cd tinytales-assignment-profile-screen
 ```
