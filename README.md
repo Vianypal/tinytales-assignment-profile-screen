@@ -36,26 +36,24 @@ mobile view
 Installation
 Clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/Vianypal/tinytales-assignment-profile-screen.git
 Navigate to the project directory:
-
-bash
-Copy code
+```
+```bash
 cd tinytales-assignment-profile-screen
+```
 Install dependencies:
-
-bash
-Copy code
+```bash
 npm install
+```
 Place your record.json file in the project directory.
 
 Run the application:
 
-bash
-Copy code
+```bash
 npm start
+```
 Open your browser and visit http://localhost:3000 to view the profile screen.
 
 Usage
